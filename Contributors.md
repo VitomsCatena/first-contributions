@@ -899,6 +899,7 @@
 - [Harish Thakur](https://github.com/harish445)
 - [Adelaide Nxumalo](https://github.com/anxumalo)
 - [Abhijeet Jain](https://github.com/abhijeetj100)
+- [Vitoms Catena](https://github.com/VitomsCatena)
 - [Aditya Narayan](https://github.com/adityanarayanm095)
 - [Yash Amode](https://github.com/yashamode)
 - [Ordinary A](https://github.com/ordinary-A)
